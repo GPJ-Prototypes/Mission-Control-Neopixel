@@ -2,7 +2,7 @@
 
 A Node.js interface to control **3 Green LEDs** (simulating 12V
 indicators)
-and one **8-pixel Neopixel strip** via a Raspberry Pi 4B.
+and one **8-pixel Neopixel strip** via a Raspberry Pi 4B. (Hardware I have on hand)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ and one **8-pixel Neopixel strip** via a Raspberry Pi 4B.
 
 ## 🔌 Hardware Setup (The Holes)
 
-Connect your components to these **Physical Pin numbers**\
+Connect your components to these **Physical Pin numbers**
 (the hole count on the board).
 
   Component     Physical Pin   Logic Type   Note
