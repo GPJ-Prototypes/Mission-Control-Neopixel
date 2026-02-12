@@ -1,0 +1,10 @@
+{
+  "name": "gcn26-mission-control-neopixel",
+  "version": "1.0.0",
+  "description": "Driving NeoPixel Rings and Lightbox via chained GPIO",
+  "main": "app.js",
+  "dependencies": {
+    "rpi-ws281x": "^1.0.0",
+    "rpio": "^2.4.2"
+    }
+}
