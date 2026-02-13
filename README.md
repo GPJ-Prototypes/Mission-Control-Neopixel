@@ -4,6 +4,9 @@ A Node.js interface to control **3 Green LEDs** (simulating 12V
 indicators)
 and one **8-pixel Neopixel strip** via a Raspberry Pi 4B. (Hardware I have on hand)
 
+
+Added a (Arduino) Teensy script. THis is a much easier way to go if we can. This test just has the Neopixel ring and small strip. This will be the easier way to go depending on where the app lives. 
+
 ------------------------------------------------------------------------
 
 ## 🛠 Prerequisites
