@@ -6,9 +6,14 @@ Mission Control is a Teensy 4.0-based LED sequencing system. A Node.js applicati
 
 ------------------------------------------------------------------------
 
+Full circuit
 <img style="width=50%; height=50%;" src="assets/GCN26-Mission-Control-Teensy.jpg">
 
+Strip testing circuit
+<img style="width=50%; height=50%;" src="assets/GCN26-Mission-Control-WS2815-Test.jpg">
 
+
+Arcade button LED pinout
 <img style="width=50%; height=50%;" src="assets/arcadeButton.jpg">
 
 
